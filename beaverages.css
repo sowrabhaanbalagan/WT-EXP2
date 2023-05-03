@@ -1,0 +1,65 @@
+.font{    
+     font-family:lucida handwriting;  
+        font-size: 70px;     
+        color: rgb(14, 187, 55);     
+        text-align: center;
+}
+.nanbar-nav{     
+    font-size: 50px;
+}
+.fontf{     
+    font-size:20px;     
+    color: green;     
+    text-decoration: none;     
+    font-family: georgia;     
+    margin-left: 160px;
+}
+.n1{     
+    font-size: 20px;     
+    font-family: georgia;     
+    margin-left: 20px;
+}
+.n2{     
+    font-size: 20px;     
+    font-family: georgia;     
+    margin-left: 20px;
+} .n3{     
+    font-size: 20px;     
+    font-family: georgia;     
+    margin-left: 20px;
+} 
+.n4{     
+    font-size: 20px;     
+    font-family: georgia;    
+     margin-left: 20px;
+} 
+.n5{     
+    font-size: 20px;    
+     font-family: georgia;     
+     margin-left: 20px;
+} 
+.n6{     
+    font-size: 20px;    
+     font-family: georgia;    
+     margin-left: 20px;
+} 
+.n7{     
+    font-size: 20px;     
+    font-family: georgia;     
+    margin-left: 20px;
+} 
+.n8{     
+    font-family: georgia;     
+    margin-left: 20px;
+}
+.card-title{     
+    font-family: lucida handwriting;     
+    text-align: center;
+}
+.card-text{     
+    font-family: lucida handwriting;     
+    text-align: center;
+}
+.bt{     
+    text-align: center;
+}

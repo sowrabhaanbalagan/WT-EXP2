@@ -1,0 +1,300 @@
+.font{
+    font-family:lucida handwriting;
+    font-size: 70px;
+    color: rgb(42, 86, 167);
+    text-align: center;
+}
+.nanbar-nav{
+    font-size: 50px;
+}
+.fontf{
+    font-size: 20px;
+    font-family: georgia;
+    margin-left: 160px;
+    text-decoration: none;
+    color: black;
+}
+.n1{
+    font-size: 20px;
+    font-family: georgia;
+    margin-left: 20px;
+}
+.n2{
+    font-size: 20px;
+    font-family: georgia;
+    margin-left: 20px;
+}
+.n3{
+    font-size: 20px;
+    font-family: georgia;
+    margin-left: 20px;
+}
+.n4{
+    font-size: 20px;
+    font-family: georgia;
+    margin-left: 20px;
+}
+.n5{
+    font-size: 20px;
+    font-family: georgia;
+    margin-left: 20px;
+}
+.n6{
+    font-size: 20px;
+    font-family: georgia;
+    margin-left: 20px;
+}
+.dropdown{
+    font-size:20px;
+    color: rgb(43, 105, 219);
+    text-decoration: none;
+    font-family: georgia;
+    margin-left: 20px;
+}
+.n8{
+    font-family: georgia;
+    margin-left: 20px;
+}
+.dropdown-menu{
+    font-size:20px;
+    color:rgb(43, 105, 219);
+    text-decoration: none;
+    font-family: georgia;
+    margin-left: 20px;
+}
+.n9{
+    font-size:20px;
+    color: rgb(43, 105, 219);
+    text-decoration: none;
+    font-family: georgia;
+    margin-left: 20px;
+}
+.grid1{
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    height: 300px;
+    width: 1500px;
+} 
+.cat{
+    font-size: 30px;
+    color:rgb(84, 128, 194);
+    text-align: center;
+    font-family:georgia;
+}
+.beaverage{
+    font-size: 20px;
+    color:white;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    background-color:rgb(150, 223, 215);
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-family: papyrus;
+}
+.beaverage1{
+    border-radius: 50%;
+}
+.drysnacks{
+    font-size: 20px;
+    color:white;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    background-color:rgb(150, 223, 215);
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-family: papyrus;
+}
+.drysnacks11{
+    border-radius: 50%;
+}
+.snacks{
+    font-size: 20px;
+    color:white;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    background-color:rgb(150, 223, 215);
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-family: papyrus;
+}
+.snacks11{
+    border-radius: 50%;
+}
+.chocolate{
+    font-size: 20px;
+    color:white;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    background-color:rgb(150, 223, 215);
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-family: papyrus;
+}
+.chocolate1{
+    border-radius: 50%;
+}
+.packed{
+    font-size: 20px;
+    color:white;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    background-color:rgb(150, 223, 215);
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-family: papyrus;
+}
+.packed1{
+    border-radius: 50%;
+}
+.toiletry{
+    font-size: 20px;
+    color:white;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    background-color:rgb(150, 223, 215);
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-family: papyrus;
+}
+.toiletry1{
+    border-radius: 50%;
+}
+.spices{
+    font-size: 20px;
+    color:white;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    background-color:rgb(150, 223, 215);
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-family: papyrus;
+}
+.spices1{
+    border-radius: 50%;
+}
+.staples{
+    font-size: 20px;
+    color:white;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    background-color:rgb(150, 223, 215);
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-family: papyrus;
+}
+.staples1{
+    border-radius: 50%;
+}
+.kitchenacc{
+    font-size: 20px;
+    color:white;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    background-color:rgb(150, 223, 215);
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-family: papyrus;
+}
+.kitchenacc1{
+    border-radius: 50%;
+}
+.b1{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 30px;
+    font-family: lucida handwriting;
+    color: brown;
+}
+.b2{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 30px;
+    font-family: lucida handwriting;
+    color: brown;
+}
+.b3{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 30px;
+    font-family: lucida handwriting;
+    color: brown;
+}
+.b4{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 30px;
+    font-family: lucida handwriting;
+    color: brown;
+}
+.b5{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 30px;
+    font-family: lucida handwriting;
+    color: brown;
+}
+.b6{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 30px;
+    font-family: lucida handwriting;
+    color: brown;
+}
+.b7{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 30px;
+    font-family: lucida handwriting;
+    color: brown;
+}
+.b8{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 30px;
+    font-family: lucida handwriting;
+    color: brown;
+}
+.b9{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 30px;
+    font-family: lucida handwriting;
+    color: brown;
+}
+ 
